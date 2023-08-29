@@ -7,6 +7,6 @@ else
   git clone $UPSTREAM_REPO /Eva
 fi
 cd /Eva
-pip3 install -U -r requirements.txt
+pip3 install -U pip && pip3 install -U -r requirements.txt
 echo "Starting Bot...."
 python3 bot.py
