@@ -83,6 +83,6 @@ DOWNLOAD_TEXT_URL = "https://omegalinks.in/ref/GreyMatter6458"
 
    # Custom Caption Under Button #
 CAPTION_BUTTON = "Subscribe"
-CAPTION_BUTTON_URL = "https://youtube.com/@GreyMattersYT"
+CAPTION_BUTTON_URL = "https://t.me/PVTServer"
 
    # Auto Delete For Bot Sending Files #
